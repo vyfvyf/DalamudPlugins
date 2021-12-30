@@ -1,0 +1,19 @@
+{
+  "Author": "aers",
+  "Name": "NamePlateDebuffs",
+  "InternalName": "NamePlateDebuffs",
+  "AssemblyVersion": "0.5.0.2",
+  "Description": "Displays your debuffs on enemy nameplates.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/vyfvyf/NamePlateDebuffs",
+  "Tags": [
+    "Nameplates",
+    "UI"
+  ],
+  "CategoryTags": [
+    "UI"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Changelog": "An attempt to make it work for Endwalker"
+}
