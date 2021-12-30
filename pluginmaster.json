@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "aers",
+        "Name": "NamePlateDebuffs",
+        "Description": "Displays your debuffs on enemy nameplates.",
+        "Changelog": "An attempt to make it work for Endwalker",
+        "InternalName": "NamePlateDebuffs",
+        "AssemblyVersion": "0.5.0.1",
+        "RepoUrl": "https://github.com/vyfvyf/NamePlateDebuffs",
+        "Tags": [
+            "Nameplates",
+            "UI"
+        ],
+        "DalamudApiLevel": 5,
+        "DownloadLinkInstall": "https://github.com/vyfvyf/DalamudPlugins/raw/api5/plugins/NamePlateDebuffs/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "ApplicableVersion": "any",
+        "DownloadLinkTesting": "https://github.com/vyfvyf/DalamudPlugins/raw/api5/plugins/NamePlateDebuffs/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/vyfvyf/DalamudPlugins/raw/api5/plugins/NamePlateDebuffs/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1640857320"
+    }
+]
